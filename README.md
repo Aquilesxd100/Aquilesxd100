@@ -1,6 +1,2 @@
 <a onclick="teste()">TESTE</a>
-<script>
-   function teste() {
-        alert("teste");
-   }
-</script>
+<script src="js.js"></script>
