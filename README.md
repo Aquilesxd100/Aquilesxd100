@@ -1,4 +1,4 @@
-<img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/aa30ba9487d9885d35ab919d07f9c5892f7b1879/Ju5DIi5.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/3a181a3dbfb759c12fa093ff6dcb22c2cf1fa84b/quarto.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
@@ -33,3 +33,4 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
