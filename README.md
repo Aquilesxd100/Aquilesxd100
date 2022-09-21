@@ -33,4 +33,6 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
-[![card](https://github-readme-stats.vercel.app/api?username=aquilesxd100&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Aquilesxd100">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aquilesxd100&theme=dark" align="left">
+</a>
