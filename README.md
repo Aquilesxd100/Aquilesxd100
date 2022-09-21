@@ -1,8 +1,8 @@
 <img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/87234406ba191d84b30934155da165205391a39d/Ju5DIi5.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
+<h2 style="color: red;">Bem Vindo(a) ao meu Perfil!</h2>
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Meu nome é Fernando, sou um eterno estudante de programação que todos os dias descobre o quanto ainda <strong>NÃO</strong> sabe da área. 😂
 </p>
 
 <p align="left">
@@ -33,3 +33,4 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
+[![card](https://github-readme-stats.vercel.app/api?username=aquilesxd100&theme=default)](https://github.com/anuraghazra/github-readme-stats)
