@@ -3,7 +3,7 @@
   Meu nome é Fernando, sou um eterno estudante de programação<br>
   que todos os dias descobre o quanto ainda <strong>NÃO</strong> sabe da área. 😂
 </p>
-<img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/87234406ba191d84b30934155da165205391a39d/Ju5DIi5.gif" min-width="56%" max-width="46%" width="46%" align="right">
+<img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/87234406ba191d84b30934155da165205391a39d/Ju5DIi5.gif" min-width="56%" max-width="46%" width="46%" align="right" margin-left="10px">
 <p align="left">
  <strong>👾 Linguagens:</strong> <br>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="22px">
