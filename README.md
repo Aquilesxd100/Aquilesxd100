@@ -4,7 +4,7 @@
   que todos os dias descobre o quanto ainda <strong>NÃO</strong> sabe da área. 😂
 </p>
 
-<img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/87234406ba191d84b30934155da165205391a39d/Ju5DIi5.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/87234406ba191d84b30934155da165205391a39d/Ju5DIi5.gif" min-width="40%" max-width="40%" width="40%" align="right">
 <p align="left">
   🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
 </p>
