@@ -1,10 +1,9 @@
-<img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/87234406ba191d84b30934155da165205391a39d/Ju5DIi5.gif" min-width="400px" max-width="400px" width="400px" align="right">
-
 <h2 style="color: red;">Bem Vindo(a) ao meu Perfil!</h2>
 <p align="left"> 
   Meu nome é Fernando, sou um eterno estudante de programação que todos os dias descobre o quanto ainda <strong>NÃO</strong> sabe da área. 😂
 </p>
 
+<img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/87234406ba191d84b30934155da165205391a39d/Ju5DIi5.gif" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
   🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
 </p>
