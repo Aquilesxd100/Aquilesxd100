@@ -35,5 +35,5 @@
 </p>
 <br>
 <a href="https://github.com/Aquilesxd100">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aquilesxd100&theme=dark" align="left" width="30%" max-width="30%" min-width="30%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aquilesxd100&theme=dark" align="left" width="40%" max-width="40%" min-width="40%">
 </a>
