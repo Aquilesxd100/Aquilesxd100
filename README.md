@@ -1,4 +1,4 @@
-<img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/87234406ba191d84b30934155da165205391a39d/Ju5DIi5.gif" min-width="400px" max-width="400px" width="400px" align="right" style="border: solid #000000 3px">
+<img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/87234406ba191d84b30934155da165205391a39d/Ju5DIi5.gif" min-width="400px" max-width="400px" width="400px" align="right" style="border: solid #000000 10px">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
