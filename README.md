@@ -1,4 +1,4 @@
-<h2 style="color: red;">Bem Vindo(a) ao meu Perfil!</h2>
+<h2>Bem Vindo(a) ao meu Perfil!</h2>
 <p align="left"> 
   Meu nome é Fernando, sou um eterno estudante de programação<br>
   que todos os dias descobre o quanto ainda <strong>NÃO</strong> sabe da área. 😂
@@ -35,5 +35,5 @@
 </p>
 <br>
 <a href="https://github.com/Aquilesxd100">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aquilesxd100&theme=dark" align="left" width="520px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aquilesxd100&theme=dark" align="left" width="30%" max-width="30%" min-width="30%">
 </a>
