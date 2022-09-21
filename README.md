@@ -1,4 +1,4 @@
-<img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/3a181a3dbfb759c12fa093ff6dcb22c2cf1fa84b/quarto.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/3a181a3dbfb759c12fa093ff6dcb22c2cf1fa84b/Ju5DIi5.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
