@@ -23,7 +23,7 @@
 
 <p align="left">
   <strong>📖 Estudo Recente:</strong> <br>
-  Ando estudando HTML e sobre alguns elementos CSS, mas principalmente semântica.
+  Ando estudando <i>HTML</i> e sobre alguns elementos <i>CSS</i>, mas principalmente semântica.
 </p>
 
 <p align="left">
