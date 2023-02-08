@@ -13,7 +13,7 @@
 
 <p align="left">
   <strong>📃 Formação:</strong> <br>
-  Ensino Médio Completo | Curso Algoritmo 40h (Curso em Vídeo) | Curso CODAÍ 2.0 (Growdev) | Growdev Fullstack 11ª Edição (em andamento) 
+  Ensino Superior Back End (em andamento) | Curso Algoritmo 40h (Curso em Vídeo) | Curso CODAÍ 2.0 (Growdev) | Growdev Fullstack 11ª Edição (em andamento) 
 </p>
 
 <p align="left">
