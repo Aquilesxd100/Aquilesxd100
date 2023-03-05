@@ -22,11 +22,6 @@
 </p>
 
 <p align="left">
-  <strong>📖 Estudo Recente:</strong> <br>
-  Ando estudando <i>HTML</i> e sobre alguns elementos <i>CSS</i>, mas principalmente semântica.
-</p>
-
-<p align="left">
   <strong>🎮 Hobbies:</strong> <br>
   Curto bastante jogos de estrategia, assistir filmes/séries/animes e ouvir musicas que alimentam a alma.
 </p>
