@@ -1,6 +1,6 @@
-<h2>Bem Vindo(a) ao meu Perfil!</h2>
+<h2>Bem Vindo(a) ao meu Cantinho!</h2>
 <p align="left"> 
-  Meu nome é Fernando, sou um eterno estudante de programação<br>
+  Meu chamo Fernando e sou um eterno estudante de programação<br>
   que todos os dias descobre o quanto ainda <strong>NÃO</strong> sabe da área. 😂
 </p>
 <img src="https://github.com/Aquilesxd100/Aquilesxd100/blob/87234406ba191d84b30934155da165205391a39d/Ju5DIi5.gif" min-width="56%" max-width="46%" width="46%" align="right" margin-left="10px">
@@ -13,7 +13,7 @@
 
 <p align="left">
   <strong>📃 Formação:</strong> <br>
-  Ensino Superior Back End (em andamento) | Curso Algoritmo 40h (Curso em Vídeo) | Curso CODAÍ 2.0 (Growdev) | Growdev Fullstack 11ª Edição (em andamento) 
+  Ensino Superior Back End (em andamento) | Curso Algoritmo 40h (Curso em Vídeo) | Curso CODAÍ 2.0 (Growdev) | Growdev Fullstack 11ª Edição 
 </p>
 
 <p align="left">
