@@ -19,7 +19,9 @@
 
 <p align="left">
   <strong>⌛ Experiências Profissionais:</strong> <br>
-  Auxiliar de Vendas (durante cerca de 4 anos)
+  Auxiliar de Vendas (durante cerca de 4 anos)<br>
+  Estagio Desenvolvedor FrontEnd (1 ano)<br>
+  Desenvolvedor Fullstack Junior (atual)
 </p>
 
 <p align="left">
